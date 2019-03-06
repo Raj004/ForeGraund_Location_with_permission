@@ -1,0 +1,14 @@
+<resources>
+  <string name="app_name">ForGraundLocationUpdate</string>
+  <string name="location_updated">Location Update</string>
+  <string name="launch_activity">Launch app..</string>
+  <string name="remove_notification">Remove</string>
+  <string name="title_location_permission">My location</string>
+  <string name="text_location_permission">LOcation Get</string>
+  <string name="ok">Yes</string>
+    <string name="ok_dialog_location">Ok</string>
+    <string name="gps_not_found_title">GPS not Enable..</string>
+  <string name="gps_not_found_message">Please enable GPS..</string>
+  <string name="yes">yes</string>
+  <string name="no">No</string>
+</resources>
